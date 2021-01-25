@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Skyler. I enjoy creating inventive applications that can be used for a variety of situations. :raised_hands:
-
+# Skyler Aschenbeck
+### I enjoy creating inventive applications that can be used for a variety of situations. :raised_hands:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=saschenbeck.visitor-badge)
+
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up.">
