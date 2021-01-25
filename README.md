@@ -1,4 +1,17 @@
-### Hi there 👋
+![HEADER](https://github.com/saschenbeck/saschenbeck/blob/main/Skyler%20Aschenbeck%20LinkedIn%20Banner.png)
+
+---
+<h2 align="center"> I enjoy creating inventive applications that can be used for a variety of situations. :raised_hands:</h2>
+
+---
+
+* 🔭 I'm currently studying Full-Stack Web Development, Salesforce, and Agile Methodologies
+* 🌱 I’m currently learning Java, C#, and Python
+* 💬 Ask me about project ideas or nerd culture
+
+*  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/skyler-aschenbeck)
+
+---
 
 <!--
 **saschenbeck/saschenbeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,14 +26,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Skyler Aschenbeck
-### I enjoy creating inventive applications that can be used for a variety of situations. :raised_hands:
 
 ![SKYLER'S github stats](https://github-readme-stats.vercel.app/api?username=saschenbeck&show_icons=true&theme=highcontrast&count_private=true&hide=stars,issues)
 
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saschenbeck&theme=highcontrast&layout=compact)](https://github.com/saschenbeck/github-readme-stats)
+
 
 #### Frontend
 <p float="left">
@@ -30,6 +41,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
 </p>
+
+
 
 #### Backend
 <p float="left">
