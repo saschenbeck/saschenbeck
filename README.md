@@ -17,4 +17,10 @@ Here are some ideas to get you started:
 ### I enjoy creating inventive applications that can be used for a variety of situations. :raised_hands:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=saschenbeck.visitor-badge)
 
+![SKYLER'S github stats](https://github-readme-stats.vercel.app/api?username=saschenbeck&show_icons=true&theme=highcontrast&count_private=true&hide=stars,issues)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saschenbeck&theme=highcontrast&layout=compact)](https://github.com/saschenbeck/github-readme-stats)
+
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up.">
