@@ -1,4 +1,4 @@
-![HEADER](https://github.com/saschenbeck/saschenbeck/blob/main/RotatingBanner.gif)
+![HEADER](https://github.com/saschenbeck/saschenbeck/blob/main/Skyler%20Aschenbeck%20LinkedIn%20Banner.png)
 
 ---
 <h2 align="center"> I enjoy creating inventive applications that can be used for a variety of situations. :raised_hands:</h2>
