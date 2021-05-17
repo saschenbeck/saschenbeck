@@ -5,7 +5,7 @@
 
 ---
 
-* 🔭 I'm currently studying Full-Stack Web Development, Salesforce, and Agile Methodologies
+* 🔭 I'm currently studying Full-Stack Web Development, ASP.NET Core, and Agile Methodologies
 * 🌱 I’m currently learning Java, C#, and Python
 * 💬 Ask me about project ideas or nerd culture
 
