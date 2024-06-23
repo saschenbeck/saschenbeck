@@ -6,7 +6,7 @@
 ---
 
 * 🔭 I'm currently studying Full-Stack Web Development, ASP.NET Core, and Agile Methodologies
-* 🌱 I’m currently learning Java, C#, and Dynamics365
+* 🌱 I’m currently learning React, React Native, Python, C#, and Dynamics365
 * 💬 Ask me about project ideas or nerd culture
 
 *  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/skyler-aschenbeck)
